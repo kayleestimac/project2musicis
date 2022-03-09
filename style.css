@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color: darkgray}
+
+h1 {color: lavender; 
+font-size: 50pt;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+
+.comfort {font-family: "Book Antiqua";position:fixed;left:200px;top:200px;font-size: 35pt;background-color:darkorange;opacity:0}
+.comfort:hover{opacity: 100}
+.free {font-family: "Lucida Handwriting";position:fixed;left:450px;top:200px;font-size: 36pt;background-color: #DF8540;opacity:0}
+.free:hover{opacity: 100}
+.fun {font-family: Gigi;position:fixed;left:100px;top:140px;font-size: 40pt;background-color: #E7821E;opacity: 0}
+.fun:hover{opacity: 100}
+.confident {font-family: Stencil;position:fixed;left:800px;top:140px;font-size: 35pt;background-color: #E26E32;opacity: 0}
+.confident:hover{opacity: 100}
+.relax {font-family: Cambria;position:fixed;left:350px;top:140px;font-size: 35pt;background-color: #EF690E;opacity: 0}
+.relax:hover {opacity: 100}
+.happy {font-family: Elephant;position:fixed;left:550px;top:140px;font-size: 35pt;background-color: #F5AF16;opacity: 0}
+.happy:hover{opacity: 100}
+.sad {font-family: "Gill Sans MT Condensed";position:fixed;left:725px;top:200px;font-size: 40pt;background-color: #F1550F;opacity: 0}
+.sad:hover{opacity: 100}
+

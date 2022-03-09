@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {
+  position: relative;
+  display: inline-block;
+}
+#car {
+  width: 100vw;
+}
+.overlay {
+  position: absolute;
+  width: 40%;
+  left: 30%;
+  top: 50%;transform: translateY(-50%);transform: translateY(-50%);transform: translateY(-50%);
+  transform:translateY(-50%);opacity:80%;
+}
